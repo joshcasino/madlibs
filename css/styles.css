@@ -1,0 +1,19 @@
+.letter {
+  background-image: url("../img/paper.jpg");
+}
+
+.form-inline {
+  max-width: 150px;
+  width: auto;
+  display: inline;
+}
+
+.btn {
+  background-color: #ffb84d;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: transparent;
+  border-color: red;
+}
